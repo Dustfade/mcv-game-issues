@@ -16,6 +16,7 @@ Before reporting a bug please follow these steps:
 - Describe how to reproduce the bug.
 - If this bug is map specific, type in console `status` to check map name  
 - Attach a screenshot / video
+- If the game has crashes, attach a crash dump file from directory `Steam/dumps` and pick out the latest one.
 - Describe your PC Hardware configuration:
   - Operating system + Version
   - GPU name
