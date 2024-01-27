@@ -13,7 +13,7 @@ Before reporting a bug please follow these steps:
 - Make sure you are playing on the latest version
 - Check if someone else reported the bug
 - Describe the bug
-- Describe how to reproduce the error.
+- Describe how to reproduce the bug.
 - If this bug is map specific, type in console `status` to check map name  
 - Attach a screenshot / video
 - Describe your PC Hardware configuration:
