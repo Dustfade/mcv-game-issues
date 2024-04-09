@@ -21,3 +21,4 @@ Before reporting a bug please follow these steps:
   - Operating system + Version
   - GPU name
   - CPU name
+  - Memory (RAM)
