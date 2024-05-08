@@ -11,11 +11,11 @@ https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
 Before reporting a bug please follow these steps:
 
 - Make sure you are playing on the latest version
-- Check if someone else reported the bug
-- Describe the bug
+- Check if someone else reported the bug.
+- Describe the bug.
 - Describe how to reproduce the bug.
-- If this bug is map specific, type in console `status` to check map name  
-- Attach a screenshot / video
+- If this bug is map specific, type in console `status` to check map name.
+- Attach a screenshot or video.
 - If the game has crashes, attach a crash dump file from directory `Steam/dumps` and pick out the latest one.
 - Describe your PC Hardware configuration:
   - Operating system + Version
