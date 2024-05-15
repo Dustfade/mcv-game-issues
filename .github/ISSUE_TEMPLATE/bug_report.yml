@@ -1,0 +1,71 @@
+name: Bug Report
+description: Create a bug report
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us improve! 🙏
+        
+        To help us diagnose and fix the issue:
+        - Make sure you are playing on the latest version
+        - Check if someone else reported the bug
+        - Please provide as much information as possible about your problem
+
+  - type: textarea
+    id: what-did-you-do
+    attributes:
+      label: "What did you do?"
+      description: "Please explain what you were doing when you encountered the bug"
+    validations:
+      required: false
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: "What did you see happen?"
+      description: Please explain the bug in as much detail as possible
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: "What did you expect to see?"
+      description: Please explain what you expected to have happened instead
+    validations:
+      required: false
+
+
+  - type: input
+    id: map-name
+    attributes:
+      label: "What map were you playing on?"
+      description: type `status` in the in-game console to check map name
+    validations:
+      required: false
+
+
+  - type: textarea
+    id: hardware-config
+    attributes:
+      label: "Describe your PC Hardware configuration"
+      description: Please include Operating system + Version, GPU name, CPU name and Memory (RAM)
+    validations:
+      required: false
+
+  - type: textarea
+    id: video-screenshot
+    attributes:
+      label: "Do you have a video or screenshot?"
+      description: Please attach a video or screenshot, if possible
+    validations:
+      required: false
+
+  - type: textarea
+    id: crash-dump
+    attributes:
+      label: "Does the game crash?"
+      description: Please attach latest a crash dump file from directory Steam/dumps
+    validations:
+      required: false
